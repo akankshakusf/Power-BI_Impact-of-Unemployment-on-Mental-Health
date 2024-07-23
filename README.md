@@ -1,6 +1,6 @@
 # Power-BI-Impact-of-Unemployment-on-Mental-Health
 This is my Power BI Project for the University of South Florida Master Program in Aritficial Intelligence and Business Analytics.
-# PowerBI # PowerBi-Visuals # PowerBi-custom-visuals # powerbi-report # powerbi-dashboard # Universityofsouthflorida # usf # bulls # MSAIBA
+# PowerBI
 
 
 ## Project Overview
