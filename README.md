@@ -2,7 +2,6 @@
 This is my Power BI Project for the University of South Florida Master Program in Aritficial Intelligence and Business Analytics.
 
 
-
 ## Project Overview
 
 This Power BI project aims to analyze the relationship between unemployment rates and mental health outcomes, focusing on depression and suicide rates. The project utilizes various datasets to provide insights into how economic indicators such as GDP and Mean Median Family Income correlate with Mental Health statistics across different demographic groups.
