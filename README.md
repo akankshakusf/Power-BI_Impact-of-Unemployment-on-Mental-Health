@@ -8,9 +8,9 @@ This Power BI project aims to analyze the relationship between unemployment rate
 
 ## Research Questions
 
-**Q1. What is the relationship between the temporal variations in Unemployment Rates and the prevalence of Depressive Disorders among adults over the observed period? 
-**Q2. How do Unemployment Rates correlate with Suicide Rates across the top 10 states with the highest Unemployment, and what are the trends across the top 10 states with the highest in Mean and Median family income with respect to Population over the years?
-**Q3. How do economic factors, healthcare access, and demographic characteristics influence mental health outcomes, specifically the 	incidence of suicide, across different states by population factor? 
+- **Q1. What is the relationship between the temporal variations in Unemployment Rates and the prevalence of Depressive Disorders among adults over the observed period?** 
+- **Q2. How do Unemployment Rates correlate with Suicide Rates across the top 10 states with the highest Unemployment, and what are the trends across the top 10 states with the highest in Mean and Median family income with respect to Population over the years?**
+- **Q3. How do economic factors, healthcare access, and demographic characteristics influence mental health outcomes, specifically the 	incidence of suicide, across different states by population factor?**
 
 
 ## Data Sources
