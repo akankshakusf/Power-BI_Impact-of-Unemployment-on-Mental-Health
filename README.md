@@ -47,8 +47,8 @@ Q3. How do economic factors, healthcare access, and demographic characteristics 
 ### Mental Health Cases by State Analysis
 - **Map Visual**: Distribution of mental health cases by state.
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](Tabs/image.png)
+![alt text](Tabs/image-1.png)
 
 ### Q1. What is the relationship between the temporal variations in Unemployment Rates and the prevalence of Depressive Disorders among adults over the observed period?
 
@@ -65,12 +65,12 @@ These visuals tell a compelling story of how the COVID-19 pandemic and the resul
 ### Family Income by Year Analysis
 - **Line and Stacked Column Chart**: Mean and median family income trends.
 
-![alt text](image-2.png)
+![alt text](Tabs/image-2.png)
 
 ### Unemployment by Year Insights
 - **Line and Stacked Column Chart**: Unemployment rates and suicide rates correlation.
 
-![alt text](image-3.png)
+![alt text](Tabs/image-3.png)
 
 ### Q2. How do unemployment rates correlate with suicide rates across the top 10 states with the highest unemployment, and what are the trends across the top 10 states with the highest in Mean and Median family income with respect to Population over the years? 
 
@@ -91,7 +91,7 @@ As seen High Unemployment Rates are strongly linked to higher Suicide Rates. Dat
 - **Pie Chart**: Distribution of suicide cases by demographic category.
 - **Line Chart**: Population Below Poverty Line, Population with Health Insurance, and overall Population Rate.
 
-![alt text][Tabs](image-4.png)
+![alt text](Tabs/image-4.png) 
 
 ### Q3. How do economic factors, healthcare access, and demographic characteristics influence mental health outcomes, specifically the incidence of suicide, across different states by population factor?
  
