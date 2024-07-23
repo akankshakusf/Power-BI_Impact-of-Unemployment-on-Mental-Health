@@ -91,7 +91,7 @@ As seen High Unemployment Rates are strongly linked to higher Suicide Rates. Dat
 - **Pie Chart**: Distribution of suicide cases by demographic category.
 - **Line Chart**: Population Below Poverty Line, Population with Health Insurance, and overall Population Rate.
 
-![alt text](image-4.png)
+![alt text][Tabs](image-4.png)
 
 ### Q3. How do economic factors, healthcare access, and demographic characteristics influence mental health outcomes, specifically the incidence of suicide, across different states by population factor?
  
