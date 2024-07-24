@@ -2,7 +2,7 @@
 This is my Power BI Project for the University of South Florida Master Program in Aritficial Intelligence and Business Analytics.
 
 ## Video Explaoination of the Report
-![alt text](report-explained-github_file.mp4)
+[![alt text](report-explained-github_file.mp4)](https://github.com/user-attachments/assets/d4ea399f-593e-444e-b285-156388f6b09e)
 
 ## Project Overview
 
